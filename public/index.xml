@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KA Green on KA Green CPA</title>
+    <link>www.kagreencpa.com/</link>
+    <description>Recent content in KA Green on KA Green CPA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate><atom:link href="www.kagreencpa.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accounting</title>
+      <link>www.kagreencpa.com/services/accounting/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>www.kagreencpa.com/services/accounting/</guid>
+      <description>Good bookkeeping is the foundation of your company&amp;rsquo;s accounting function. Clean, up-to-date books allow you to make informed business decisions and build better forecast models to plan for the future.</description>
+    </item>
+    
+    <item>
+      <title>Business Advisory</title>
+      <link>www.kagreencpa.com/services/business-advisory/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>www.kagreencpa.com/services/business-advisory/</guid>
+      <description>After building our understanding of your business, we can provide insights and assistance for making better business decisions.</description>
+    </item>
+    
+    <item>
+      <title>Federal Grants</title>
+      <link>www.kagreencpa.com/services/business-sales/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>www.kagreencpa.com/services/business-sales/</guid>
+      <description>We have experience working with for-profit recipients of NIH and NSF SBIR and STTR grants. We can assist in setting up an accounting system that will allow you to track the data and documentation you need.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>www.kagreencpa.com/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>www.kagreencpa.com/contact/</guid>
+      <description>Please reach out by email to schedule a consultation.</description>
+    </item>
+    
+  </channel>
+</rss>
